@@ -48,5 +48,32 @@
       "trailer": "https://www.youtube.com/embed/XDSbhWVxNIw",
       "hinhAnh": "https://i.ytimg.com/vi/1t2nhDE_Yes/maxresdefault.jpg"
     }
+  ],
+  "news": [
+    {
+      "id": 0,
+      "imgTop": "",
+      "date": "",
+      "title": "",
+      "content": "",
+      "likes": 2,
+      "likeArray": [
+        { "userName": "Tèo", "userCode": "1" },
+        { "userName": "Tài", "userCode": "2" }
+      ],
+      "comments": 2,
+      "commentArray": [
+        {
+          "userIcon": "",
+          "userName": "Tèo",
+          "comment": "aaaaa"
+        },
+        {
+          "userIcon": "",
+          "userName": "Tèo",
+          "comment": "aaaaa"
+        }
+      ]
+    }
   ]
 }
