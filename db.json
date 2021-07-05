@@ -1,16 +1,52 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+  "carouselList": [
     {
       "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "ten": "Lật Mặt",
+      "loai": "phimBomTan",
+      "maLienKet": 1,
+      "trailer": "https://www.youtube.com/embed/jox0zmGyHLU",
+      "hinhAnh": "https://bloganchoi.com/wp-content/uploads/2021/04/review-phim-lat-mat-48h-9.jpg"
+    },
+    {
+      "id": 1,
+      "ten": "Bố già",
+      "loai": "phimBomTan",
+      "maLienKet": 2,
+      "trailer": "https://www.youtube.com/embed/jluSu8Rw6YE",
+      "hinhAnh": "https://afamilycdn.com/150157425591193600/2021/6/15/image001-162374931638285418597-1623753701536-1623753701649199251211.jpg"
+    },
+    {
+      "id": 2,
+      "ten": "Galaxy khuyến mãi",
+      "loai": "khuyenMai",
+      "maLienKet": 1,
+      "trailer": "",
+      "hinhAnh": "https://www.galaxycine.vn/media/2021/4/27/banner-2048x682_1619508931491.jpg"
+    },
+    {
+      "id": 3,
+      "ten": "Galaxy tặng vé miễn phí",
+      "loai": "khuyenMai",
+      "maLienKet": 2,
+      "trailer": "",
+      "hinhAnh": "https://www.galaxycine.vn/media/2021/4/12/banner-2048x682_1618212848326.jpg"
+    },
+    {
+      "id": 4,
+      "ten": "CRUELLA",
+      "loai": "phimBomTan",
+      "maLienKet": -1,
+      "trailer": "https://www.youtube.com/embed/gmRKv7n2If8",
+      "hinhAnh": "https://photo-cms-nghenhinvietnam.zadn.vn/w700/Uploaded/2021/cadwpqrnd/2021_06_03/2102170_weill_cruella_tease_k8wupf_wdiz.jpg"
+    },
+    {
+      "id": 5,
+      "ten": "THỎ PETER 2",
+      "loai": "phimBomTan",
+      "maLienKet": -1,
+      "trailer": "https://www.youtube.com/embed/XDSbhWVxNIw",
+      "hinhAnh": "https://i.ytimg.com/vi/1t2nhDE_Yes/maxresdefault.jpg"
     }
   ]
 }
