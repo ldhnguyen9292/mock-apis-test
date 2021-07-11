@@ -56,21 +56,25 @@
       "ngayDang": "",
       "tacGia": "",
       "tenBai": "",
-      "noiDung": "",
-      "binhLuan": {
-        "thich": 2,
-        "soLuotBinhLuan": 2,
-        "mangBinhLuan": [
-          {
-            "maThanhVien": 1212,
-            "binhLuan": "Tuyệt Quá"
-          },
-          {
-            "maThanhVien": 1214,
-            "binhLuan": "Bài viết rất hay"
-          }
-        ]
-      }
+      "noiDung": ""
+    }
+  ],
+  "binhLuan": [
+    {
+      "id": 0,
+      "idnews": 0,
+      "thich": 2,
+      "soLuotBinhLuan": 2,
+      "mangBinhLuan": [
+        {
+          "maThanhVien": 1212,
+          "binhLuan": "Tuyệt Quá"
+        },
+        {
+          "maThanhVien": 1214,
+          "binhLuan": "Bài viết rất hay"
+        }
+      ]
     }
   ]
 }
