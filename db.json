@@ -52,28 +52,25 @@
   "news": [
     {
       "id": 0,
-      "imgTop": "",
-      "date": "",
-      "title": "",
-      "content": "",
-      "likes": 2,
-      "likeArray": [
-        { "userName": "Tèo", "userCode": "1" },
-        { "userName": "Tài", "userCode": "2" }
-      ],
-      "comments": 2,
-      "commentArray": [
-        {
-          "userIcon": "",
-          "userName": "Tèo",
-          "comment": "aaaaa"
-        },
-        {
-          "userIcon": "",
-          "userName": "Tèo",
-          "comment": "aaaaa"
-        }
-      ]
+      "hinhAnh": "",
+      "ngayDang": "",
+      "tacGia": "",
+      "tenBai": "",
+      "noiDung": "",
+      "binhLuan": {
+        "thich": 2,
+        "soLuotBinhLuan": 2,
+        "mangBinhLuan": [
+          {
+            "maThanhVien": 1212,
+            "binhLuan": "Tuyệt Quá"
+          },
+          {
+            "maThanhVien": 1214,
+            "binhLuan": "Bài viết rất hay"
+          }
+        ]
+      }
     }
   ]
 }
