@@ -69,6 +69,7 @@
     {
       "id": 0,
       "tacGia": "Galaxy",
+      "loai": "khuyenMai",
       "hinhAnh": "https://www.galaxycine.vn/media/2021/6/25/2048x682_1624608035397.jpg",
       "trailer": "",
       "tenBai": "Thưởng Thức Vị Bắp Chuẩn Rạp Phim Ngay Tại Nhà",
@@ -78,6 +79,7 @@
     {
       "id": 1,
       "tacGia": "CGV",
+      "loai": "tinTuc",
       "hinhAnh": "https://www.cgv.vn/media/wysiwyg/2021/052021/CGV-DIGITAL-TEAM-DIY-240X201.jpg",
       "trailer": "",
       "tenBai": "THỬ TÀI SÁNG TẠO CÙNG SERIES DO-IT-YOURSELF (ASMR)",
@@ -87,6 +89,7 @@
     {
       "id": 2,
       "tacGia": "Galaxy",
+      "loai": "tinTuc",
       "hinhAnh": "https://www.galaxycine.vn/media/2021/7/11/captain-america-the-winter-soldier-da-thay-doi-hoan-toan-mcu-nhu-the-nao-1_1626013354923.jpg",
       "trailer": "",
       "tenBai": "Bí Mật Hậu Trường: Captain America The Winter Soldier Đã Thay Đổi Hoàn Toàn MCU Như Thế Nào? ",
@@ -96,6 +99,7 @@
     {
       "id": 3,
       "tacGia": "Galaxy",
+      "loai": "khuyenMai",
       "hinhAnh": "https://www.galaxycine.vn/media/2021/4/12/1135x660_1618212629019.jpg",
       "trailer": "",
       "tenBai": "Nhận Vé Miễn Phí, Rinh Bắp Về Nhà  ",
@@ -105,6 +109,7 @@
     {
       "id": 4,
       "tacGia": "Galaxy",
+      "loai": "khuyenMai",
       "hinhAnh": "https://www.galaxycine.vn/media/2021/4/27/1135x660_1619508530964.jpg",
       "trailer": "",
       "tenBai": "Vị Bắp Mới Cho Trải Nghiệm Xem Phim Đỉnh Cao",
@@ -115,6 +120,7 @@
     {
       "id": 5,
       "tacGia": "Marvel",
+      "loai": "tinTuc",
       "hinhAnh": "https://kenh14cdn.com/thumb_w/620/203336854389633024/2021/7/12/photo-1-16260697306581305546752.jpg",
       "trailer": "https://www.youtube.com/embed/2uVJPYbGHKo",
       "tenBai": "Black Widow lập hàng loạt kỷ lục ngày mở màn, đẳng cấp Marvel \"đá bay\" Fast & Furious 9!",
@@ -124,6 +130,7 @@
     {
       "id": 6,
       "tacGia": "Disney",
+      "loai": "tinTuc",
       "hinhAnh": "https://kenh14cdn.com/thumb_w/620/203336854389633024/2021/7/8/anh-chup-man-hinh-2021-07-08-luc-213212-1625754741622128434674.png",
       "trailer": "https://www.youtube.com/embed/togmdDHG3Pw",
       "tenBai": "Phim mới của Disney như \"Elsa hệ đảo ngược\": Cả nhà có phép thuật, mỗi mình... còn cái nịt mà thôi!",
@@ -131,12 +138,13 @@
       "noiDung": "<h2>Encanto - bom tấn hoạt hình mới nhất của Disney hé lộ những hình ảnh đầu tiên qua đoạn trailer dài 2 phút.</h2><p><br></p><p>Sau khi gây bão trên toàn cầu với bom tấn&nbsp;<em>Raya Và Rồng Thần Cuối Cùng</em>, sắp tới đây, Disney sẽ đưa người xem du hý tại đất nước tràn ngập sắc màu và huyền bí Colombia qua bộ phim hoạt hình tiếp theo&nbsp;<em>Encanto: Vùng Đất Thần Kỳ</em>. Hơn nửa năm kể từ đoạn phim nhá hàng đầu tiên, trailer chính thức của bộ phim này cuối cùng cũng được hé lộ.</p><p><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/togmdDHG3Pw\"></iframe><p><br></p><p>Ngay trong những phút giây đầu tiên của đoạn trailer, những thành viên của gia đình Madrigal đã có màn xuất hiện vô cùng ấn tượng, khoe trọn sức mạnh và khả năng ma thuật phi thường mà họ được thần linh ban tặng. Điều này tạo ra sự khác biệt rõ với Mirabel - nữ chính của bộ phim và cũng là người duy nhất trong gia đình không có một khả năng đặc biệt nào. Nếu so sánh với thế giới hoạt hình của Disney, Mirabel như một sự đảo lộn với&nbsp;Elsa&nbsp;- nàng công chúa duy nhất trong gia đình sở hữu phép thuật băng giá.</p><p><br></p><p><img src=\"https://kenh14cdn.com/thumb_w/620/203336854389633024/2021/7/8/anh-chup-man-hinh-2021-07-08-luc-213212-1625754741622128434674.png\"> <img src=\"https://kenh14cdn.com/thumb_w/620/203336854389633024/2021/7/8/encanto-online-use-teaser1039000283-1625755301928774458470.jpg\"></p><p><br></p><p>Thuộc thể loại nhạc kịch mang âm hưởng Latin, thế nên, các bài hát trong&nbsp;<em>Encanto</em>&nbsp;cũng được chú trọng&nbsp;đặc biệt. Ngay từ đoạn trailer đầu tiên, người xem cũng có thể thấy rõ phần nhạc nền sôi động và bắt tai, được Lin-Manuel Miranda - nhà soạn nhạc từng&nbsp;sáng tác các bài hát nổi tiếng cho bộ phim&nbsp;<em>Moana</em>&nbsp;tạo ra. Đến từ studio tạo ra hàng loạt các ca khúc nhạc phim để đời, Encanto hứa hẹn sẽ là một bom tấn vừa có phần nhìn xuất sắc, vừa có phần nghe ấn tượng.</p><p><br></p><p>Bắt nguồn từ câu hỏi&nbsp;\"Bạn sẽ thế nào khi sinh ra ở một gia đình xuất chúng?\",&nbsp;<em>Encanto</em>&nbsp;theo chân&nbsp;Mirabel - một cô gái sinh ra và lớn lên ở một vùng đất kỳ bí và ma thuật, khi tất cả những người bên cạnh đều có siêu năng lực. Không hề cảm thấy tự ti hay lạc lõng, cô bé này vẫn khoe trọn sự năng động và vui vẻ trong đoạn trailer đầu tiên cùng câu nói vô cùng lạc quan: \"Dù có tài hay không có tài, tôi vẫn là thành&nbsp;viên đặc biệt của gia đình mình\".</p><p><br></p><p>Bộ phim dự kiến ra mắt vào tháng 11 năm 2021.</p>"
     },
     {
-    "id": 7,
-    "tacGia": "VNEXPRESS",
-    "hinhAnh": "https://cdn.moveek.com/media/cache/large/5e3b9e091713f397359694.jpg",
-    "trailer": "https://www.youtube.com/embed/54yAKyNkK7w",
-    "tenBai": "Minions: The Rise of Gru",
-    "noiDung": "<p>Đây là phần tiếp theo của bộ phim ngoại truyện&nbsp;<em>Minions</em>&nbsp;(2015) thuộc thương hiệu&nbsp;<em>Despicable Me</em>&nbsp;rất thành công của xưởng phim hoạt hình Illumination. Nội dung tập này là về nguồn gốc ác nhân Gru, đồng thời giải đáp thắc mắc về cuộc gặp gỡ đầu tiên giữa Gru và nhóm Minions.&nbsp;<em>Minions: The Rise of Gru</em>&nbsp;do bộ đôi đạo diễn Kyle Balda và Brad Ableson thực hiện. Steve Carell cũng tiếp tục lồng tiếng cho nhân vật Gru.</p><p><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/54yAKyNkK7w\"></iframe><p><br></p>"
+      "id": 7,
+      "tacGia": "VNEXPRESS",
+      "loai": "tinTuc",
+      "hinhAnh": "https://cdn.moveek.com/media/cache/large/5e3b9e091713f397359694.jpg",
+      "trailer": "https://www.youtube.com/embed/54yAKyNkK7w",
+      "tenBai": "Minions: The Rise of Gru",
+      "noiDung": "<p>Đây là phần tiếp theo của bộ phim ngoại truyện&nbsp;<em>Minions</em>&nbsp;(2015) thuộc thương hiệu&nbsp;<em>Despicable Me</em>&nbsp;rất thành công của xưởng phim hoạt hình Illumination. Nội dung tập này là về nguồn gốc ác nhân Gru, đồng thời giải đáp thắc mắc về cuộc gặp gỡ đầu tiên giữa Gru và nhóm Minions.&nbsp;<em>Minions: The Rise of Gru</em>&nbsp;do bộ đôi đạo diễn Kyle Balda và Brad Ableson thực hiện. Steve Carell cũng tiếp tục lồng tiếng cho nhân vật Gru.</p><p><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/54yAKyNkK7w\"></iframe><p><br></p>"
     }
   ],
   "binhLuan": [
