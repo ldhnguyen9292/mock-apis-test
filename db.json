@@ -206,8 +206,16 @@
       "id": 1,
       "soLike": 2,
       "mangLike": [1111, 2222],
-      "soBinhLuan": 0,
-      "mangBinhLuan": []
+      "soBinhLuan": 1,
+      "mangBinhLuan": [
+        {
+          "maThanhVien": 1111,
+          "ten": "Nguyen Van A",
+          "hinhDaiDien": "https://thuthuatnhanh.com/wp-content/uploads/2020/09/hinh-anh-avatar-de-thuong.jpg",
+          "ngayBinhLuan": "2021-07-14T04:27:00.000Z",
+          "binhLuan": "Tuyệt Quá"
+        }
+      ]
     },
     {
       "id": 2,
@@ -248,8 +256,16 @@
       "id": 7,
       "soLike": 2,
       "mangLike": [1111, 2222],
-      "soBinhLuan": 0,
-      "mangBinhLuan": []
+      "soBinhLuan": 1,
+      "mangBinhLuan": [
+        {
+          "maThanhVien": 1111,
+          "ten": "Nguyen Van A",
+          "hinhDaiDien": "https://thuthuatnhanh.com/wp-content/uploads/2020/09/hinh-anh-avatar-de-thuong.jpg",
+          "ngayBinhLuan": "2021-07-14T04:27:00.000Z",
+          "binhLuan": "Tuyệt Quá"
+        }
+      ]
     }
   ]
 }
