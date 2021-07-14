@@ -160,36 +160,42 @@
       "mangBinhLuan": [
         {
           "maThanhVien": 1111,
+          "ten": "Nguyen Van A",
           "hinhDaiDien": "https://thuthuatnhanh.com/wp-content/uploads/2020/09/hinh-anh-avatar-de-thuong.jpg",
           "ngayBinhLuan": "2021-07-14T04:27:00.000Z",
           "binhLuan": "Tuyệt Quá"
         },
         {
           "maThanhVien": 1111,
+          "ten": "Nguyen Van A",
           "hinhDaiDien": "https://thuthuatnhanh.com/wp-content/uploads/2020/09/hinh-anh-avatar-de-thuong.jpg",
           "ngayBinhLuan": "2021-07-14T04:27:00.000Z",
           "binhLuan": "Tuyệt Quá"
         },
         {
           "maThanhVien": 1111,
+          "ten": "Nguyen Van A",
           "hinhDaiDien": "https://thuthuatnhanh.com/wp-content/uploads/2020/09/hinh-anh-avatar-de-thuong.jpg",
           "ngayBinhLuan": "2021-07-14T04:27:00.000Z",
           "binhLuan": "Tuyệt Quá"
         },
         {
           "maThanhVien": 4444,
+          "ten": "Nguyen Van B",
           "hinhDaiDien": "https://gamek.mediacdn.vn/zoom/700_438/2019/12/7/avatar-15756948214412019877975.png",
           "ngayBinhLuan": "2021-07-14T04:27:00.000Z",
           "binhLuan": "Tuyệt Quá"
         },
         {
           "maThanhVien": 3333,
+          "ten": "Nguyen Van C",
           "hinhDaiDien": "https://i.ytimg.com/vi/TikqeqQhj98/maxresdefault.jpg",
           "ngayBinhLuan": "2021-07-14T04:27:00.000Z",
           "binhLuan": "Tuyệt Quá"
         },
         {
           "maThanhVien": 2222,
+          "ten": "Nguyen Van D",
           "hinhDaiDien": "https://blogchiase.vn/wp-content/uploads/2020/04/nezuko-kamado-la-ai-02.jpg",
           "ngayBinhLuan": "2021-07-14T04:27:00.000Z",
           "binhLuan": "Tuyệt Quá"
