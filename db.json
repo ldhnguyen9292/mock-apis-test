@@ -1,5 +1,5 @@
 {
-  "carouselList": [
+  "carousel": [
     {
       "id": 0,
       "ten": "Lật Mặt",
@@ -121,7 +121,7 @@
       "id": 5,
       "tacGia": "Marvel",
       "loai": "tinTuc",
-      "hinhAnh": "https://kenh14cdn.com/thumb_w/620/203336854389633024/2021/7/12/photo-1-16260697306581305546752.jpg",
+      "hinhAnh": "https://genk.mediacdn.vn/139269124445442048/2021/7/8/black-widow-character-guide-16257356431562080943885.jpg",
       "trailer": "https://www.youtube.com/embed/2uVJPYbGHKo",
       "tenBai": "Black Widow lập hàng loạt kỷ lục ngày mở màn, đẳng cấp Marvel \"đá bay\" Fast & Furious 9!",
       "ngayDang": "2021-07-12T04:14:00.000Z",
@@ -144,24 +144,55 @@
       "hinhAnh": "https://cdn.moveek.com/media/cache/large/5e3b9e091713f397359694.jpg",
       "trailer": "https://www.youtube.com/embed/54yAKyNkK7w",
       "tenBai": "Minions: The Rise of Gru",
+      "theLoai": "Hoạt hình, Hài kịch",
+      "danhGia": "8",
       "ngayDang": "2021-07-21T04:14:00.000Z",
-      "noiDung": "<p>Đây là phần tiếp theo của bộ phim ngoại truyện&nbsp;<em>Minions</em>&nbsp;(2015) thuộc thương hiệu&nbsp;<em>Despicable Me</em>&nbsp;rất thành công của xưởng phim hoạt hình Illumination. Nội dung tập này là về nguồn gốc ác nhân Gru, đồng thời giải đáp thắc mắc về cuộc gặp gỡ đầu tiên giữa Gru và nhóm Minions.&nbsp;<em>Minions: The Rise of Gru</em>&nbsp;do bộ đôi đạo diễn Kyle Balda và Brad Ableson thực hiện. Steve Carell cũng tiếp tục lồng tiếng cho nhân vật Gru.</p><p><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/54yAKyNkK7w\"></iframe><p><br></p>"
+      "noiDung": "<p>Đây là phần tiếp theo của bộ phim ngoại truyện&nbsp;<em>Minions</em>&nbsp;(2015) thuộc thương hiệu&nbsp;<em>Despicable Me</em>&nbsp;rất thành công của xưởng phim hoạt hình Illumination. Nội dung tập này là về nguồn gốc ác nhân Gru, đồng thời giải đáp thắc mắc về cuộc gặp gỡ đầu tiên giữa Gru và nhóm Minions.&nbsp;<em>Minions: The Rise of Gru</em>&nbsp;do bộ đôi đạo diễn Kyle Balda và Brad Ableson thực hiện. Steve Carell cũng tiếp tục lồng tiếng cho nhân vật Gru.</p><p><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/54yAKyNkK7w\"></iframe><p><br></p>",
+      "ngayCongChieu": "2021-07-03T04:27:00.000Z"
     }
   ],
-  "binhLuan": [
+  "comment": [
     {
       "id": 0,
-      "idnews": 0,
-      "thich": 2,
-      "soLuotBinhLuan": 2,
+      "soLike": 5,
+      "mangLike": [1111, 2222, 3333, 4444, 5555],
+      "soBinhLuan": 6,
       "mangBinhLuan": [
         {
-          "maThanhVien": 1212,
+          "maThanhVien": 1111,
+          "hinhDaiDien": "https://thuthuatnhanh.com/wp-content/uploads/2020/09/hinh-anh-avatar-de-thuong.jpg",
+          "ngayBinhLuan": "2021-07-14T04:27:00.000Z",
           "binhLuan": "Tuyệt Quá"
         },
         {
-          "maThanhVien": 1214,
-          "binhLuan": "Bài viết rất hay"
+          "maThanhVien": 1111,
+          "hinhDaiDien": "https://thuthuatnhanh.com/wp-content/uploads/2020/09/hinh-anh-avatar-de-thuong.jpg",
+          "ngayBinhLuan": "2021-07-14T04:27:00.000Z",
+          "binhLuan": "Tuyệt Quá"
+        },
+        {
+          "maThanhVien": 1111,
+          "hinhDaiDien": "https://thuthuatnhanh.com/wp-content/uploads/2020/09/hinh-anh-avatar-de-thuong.jpg",
+          "ngayBinhLuan": "2021-07-14T04:27:00.000Z",
+          "binhLuan": "Tuyệt Quá"
+        },
+        {
+          "maThanhVien": 4444,
+          "hinhDaiDien": "https://gamek.mediacdn.vn/zoom/700_438/2019/12/7/avatar-15756948214412019877975.png",
+          "ngayBinhLuan": "2021-07-14T04:27:00.000Z",
+          "binhLuan": "Tuyệt Quá"
+        },
+        {
+          "maThanhVien": 3333,
+          "hinhDaiDien": "https://i.ytimg.com/vi/TikqeqQhj98/maxresdefault.jpg",
+          "ngayBinhLuan": "2021-07-14T04:27:00.000Z",
+          "binhLuan": "Tuyệt Quá"
+        },
+        {
+          "maThanhVien": 2222,
+          "hinhDaiDien": "https://blogchiase.vn/wp-content/uploads/2020/04/nezuko-kamado-la-ai-02.jpg",
+          "ngayBinhLuan": "2021-07-14T04:27:00.000Z",
+          "binhLuan": "Tuyệt Quá"
         }
       ]
     }
