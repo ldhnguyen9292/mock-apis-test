@@ -195,6 +195,55 @@
           "binhLuan": "Tuyệt Quá"
         }
       ]
+    },
+    {
+      "id": 1,
+      "soLike": 2,
+      "mangLike": [1111, 2222],
+      "soBinhLuan": 0,
+      "mangBinhLuan": []
+    },
+    {
+      "id": 2,
+      "soLike": 2,
+      "mangLike": [1111, 2222],
+      "soBinhLuan": 0,
+      "mangBinhLuan": []
+    },
+    {
+      "id": 3,
+      "soLike": 2,
+      "mangLike": [1111, 2222],
+      "soBinhLuan": 0,
+      "mangBinhLuan": []
+    },
+    {
+      "id": 4,
+      "soLike": 2,
+      "mangLike": [1111, 2222],
+      "soBinhLuan": 0,
+      "mangBinhLuan": []
+    },
+    {
+      "id": 5,
+      "soLike": 2,
+      "mangLike": [1111, 2222],
+      "soBinhLuan": 0,
+      "mangBinhLuan": []
+    },
+    {
+      "id": 6,
+      "soLike": 2,
+      "mangLike": [1111, 2222],
+      "soBinhLuan": 0,
+      "mangBinhLuan": []
+    },
+    {
+      "id": 7,
+      "soLike": 2,
+      "mangLike": [1111, 2222],
+      "soBinhLuan": 0,
+      "mangBinhLuan": []
     }
   ]
 }
