@@ -20,7 +20,7 @@
       "id": 2,
       "ten": "Vị Bắp Mới Cho Trải Nghiệm Xem Phim Đỉnh Cao",
       "maLienKet": "4",
-      "loai": "khuyenMai",
+      "loai": "tinTuc",
       "trailer": "",
       "hinhAnh": "https://www.galaxycine.vn/media/2021/4/27/banner-2048x682_1619508931491.jpg"
     },
@@ -28,7 +28,7 @@
       "id": 3,
       "ten": "Nhận Vé Miễn Phí, Rinh Bắp Về Nhà",
       "maLienKet": "3",
-      "loai": "khuyenMai",
+      "loai": "tinTuc",
       "trailer": "",
       "hinhAnh": "https://www.galaxycine.vn/media/2021/4/12/banner-2048x682_1618212848326.jpg"
     },
@@ -59,8 +59,8 @@
     {
       "id": 7,
       "ten": "Minions: The Rise of Gru",
-      "maLienKet": "-1",
-      "loai": "phimBomTan",
+      "maLienKet": "7",
+      "loai": "tinTuc",
       "trailer": "https://www.youtube.com/embed/pN1HNkoL2QA",
       "hinhAnh": "https://i.ytimg.com/vi/pN1HNkoL2QA/maxresdefault.jpg"
     }
@@ -69,7 +69,7 @@
     {
       "id": 0,
       "tacGia": "Galaxy",
-      "loai": "khuyenMai",
+      "loai": "tinTuc",
       "hinhAnh": "https://www.galaxycine.vn/media/2021/6/25/2048x682_1624608035397.jpg",
       "trailer": "",
       "tenBai": "Thưởng Thức Vị Bắp Chuẩn Rạp Phim Ngay Tại Nhà",
@@ -99,7 +99,7 @@
     {
       "id": 3,
       "tacGia": "Galaxy",
-      "loai": "khuyenMai",
+      "loai": "tinTuc",
       "hinhAnh": "https://www.galaxycine.vn/media/2021/4/12/1135x660_1618212629019.jpg",
       "trailer": "",
       "tenBai": "Nhận Vé Miễn Phí, Rinh Bắp Về Nhà  ",
@@ -109,7 +109,7 @@
     {
       "id": 4,
       "tacGia": "Galaxy",
-      "loai": "khuyenMai",
+      "loai": "tinTuc",
       "hinhAnh": "https://www.galaxycine.vn/media/2021/4/27/1135x660_1619508530964.jpg",
       "trailer": "",
       "tenBai": "Vị Bắp Mới Cho Trải Nghiệm Xem Phim Đỉnh Cao",
